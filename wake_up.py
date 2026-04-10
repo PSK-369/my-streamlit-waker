@@ -26,7 +26,8 @@ URL_LIST = [
     "https://loanapprvpred.streamlit.app/",
     "https://marriagetypepred.streamlit.app/",
     "https://marriedlifepred.streamlit.app/",
-    "https://socialmediaplatformpred.streamlit.app/"
+    "https://socialmediaplatformpred.streamlit.app/",
+    "https://dieasetypepredapp01.streamlit.app/"
 ]
 # ==========================================
 
